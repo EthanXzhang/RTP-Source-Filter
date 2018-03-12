@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(381,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (RTPFilter.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  CRTPReceiver.cpp
+LINK : warning LNK4044: 无法识别的选项“/wd4430”；已忽略
+     正在创建库 G:\My Projects\VS2017\RTP Source Filter\Release\RTP Source Filter.lib 和对象 G:\My Projects\VS2017\RTP Source Filter\Release\RTP Source Filter.exp
+RTP Source Filter.exp : warning LNK4070: .EXP 中的 /OUT:RTPSourceFilter.ax 指令与输出文件名“G:\My Projects\VS2017\RTP Source Filter\Release\RTP Source Filter.dll”不同；忽略指令
+LINK : warning LNK4098: 默认库“LIBCMT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  正在生成代码
+  已完成代码的生成
+RTP Source Filter.exp : warning LNK4070: .EXP 中的 /OUT:RTPSourceFilter.ax 指令与输出文件名“G:\My Projects\VS2017\RTP Source Filter\Release\RTP Source Filter.dll”不同；忽略指令
+  RTPFilter.vcxproj -> G:\My Projects\VS2017\RTP Source Filter\Release\RTP Source Filter.dll
